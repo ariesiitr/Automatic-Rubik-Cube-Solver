@@ -94,7 +94,7 @@ The connections between the components are made using a breadboard, which is a t
 [![Screenshot-2023-05-08-221814.png](https://i.postimg.cc/4yzDLZ62/Screenshot-2023-05-08-221814.png)](https://postimg.cc/2LS9ysXn)[![Screenshot-2023-05-08-221915.png](https://i.postimg.cc/7Y9cfKmz/Screenshot-2023-05-08-221915.png)](https://postimg.cc/HVJ3N9GW)
 
 
-**Youtube Video**
+### **Youtube Video**
 
 [![OK](https://img.youtube.com/vi/oZgdCtQ2fUw/0.jpg)](https://www.youtube.com/watch?v=oZgdCtQ2fUw)
 
